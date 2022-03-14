@@ -16,5 +16,6 @@ public class Patters {
 			System.out.println();	
 
 	}
+System.out.println("Demo project assignment for github");
 }
 }
